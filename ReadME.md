@@ -4,7 +4,7 @@ A Power BI project designed for Business Analysts to explore and gain insights i
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](.docs/dashboard.png)
 *Example output from the Power BI dashboard.*
 
 ## 📊 Project Overview
